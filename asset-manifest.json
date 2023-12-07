@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rtassigndb/static/css/main.9fa323b1.css",
+    "main.js": "/rtassigndb/static/js/main.28cab8d0.js",
+    "static/js/787.d4aba7ab.chunk.js": "/rtassigndb/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/rtassigndb/index.html",
+    "main.9fa323b1.css.map": "/rtassigndb/static/css/main.9fa323b1.css.map",
+    "main.28cab8d0.js.map": "/rtassigndb/static/js/main.28cab8d0.js.map",
+    "787.d4aba7ab.chunk.js.map": "/rtassigndb/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa323b1.css",
+    "static/js/main.28cab8d0.js"
+  ]
+}
